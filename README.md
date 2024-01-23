@@ -1,0 +1,2 @@
+# gastroskopija
+mobile friendly
